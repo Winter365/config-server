@@ -1,11 +1,4 @@
 spring:
-  profiles:
-    active: dev
-  application:
-    name: ms-config-client
-    
-    
-spring:
   cloud:
     config:
       server:
