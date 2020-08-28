@@ -4,8 +4,8 @@ spring:
       server:
         git:
           uri: https://github.com/Winter365/ms-config-server.git
-          username: liwentang365@sina.com
-          password: Li7488901
+          username: test@sina.com
+          password: test
 
 data:
   test: hi
