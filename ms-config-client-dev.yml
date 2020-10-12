@@ -8,4 +8,4 @@ spring:
           password: test
 
 data:
-  test: hi
+  test: hiclient
